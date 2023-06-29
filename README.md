@@ -1,2 +1,2 @@
 # alx-pre_course
-This is my first interaction with this software.
+I've made a few changes to the project.
